@@ -1,5 +1,6 @@
 # Scalatest tagging example
-This example demonstrates how easy it is to tag tests for ignoring with annotations. Examples use SBT 0.13 and Scalatest 2.0.
+This example demonstrates how easy it is to tag tests for ignoring with annotations.
+Example uses SBT 0.13 and Scalatest 2.0. Verified also with SBT 0.12.4.
 
 Quick Info
 ---
